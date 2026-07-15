@@ -30,12 +30,18 @@ Un outil de révision rapide, sur smartphone, tablette ou PC, pour s'entraîner 
 | Culture | CAP agricole MA | Bac Pro CGEA |
 |---|:---:|:---:|
 | Blé tendre | ✅ | ✅ |
+| Blé dur | ✅ | ✅ |
 | Colza | ✅ | ✅ |
 | Maïs | ✅ | ✅ |
 | Orge | ✅ | ✅ |
-| Blé dur, tournesol, pois chiche, pois protéagineux, chanvre, lin, betterave sucrière | 🔜 à venir | 🔜 à venir |
+| Tournesol | ✅ | ✅ |
+| Pois chiche | ✅ | ✅ |
+| Pois protéagineux | ✅ | ✅ |
+| Chanvre | ✅ | ✅ |
+| Lin | ✅ | ✅ |
+| Betterave sucrière | ✅ | ✅ |
 
-30 questions par couple culture × niveau déjà disponible (soit 240 questions au total).
+Les 11 cultures du cahier des charges initial sont couvertes, avec 30 questions par couple culture × niveau, soit **660 questions** au total.
 
 ## Fonctionnement technique
 
